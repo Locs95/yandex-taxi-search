@@ -1,0 +1,7 @@
+.yandex-search-wrap {
+  min-height: 100vh;
+  border: 1px solid #ddd;
+}
+.table tbody > tr:hover {
+  background-color: #FFC000;
+}

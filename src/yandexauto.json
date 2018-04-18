@@ -1,0 +1,1946 @@
+[
+ {
+   "name": "Audi A3",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Audi A4",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Audi A6",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Audi A6 allroad",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2011"
+ },
+ {
+   "name": "Audi A7",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2011"
+ },
+ {
+   "name": "Audi A8",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2011"
+ },
+ {
+   "name": "Audi Q3",
+   "economy": "от 2011",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Bentley Continental FS",
+   "economy": "Не подходит",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "BMW 1er",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "BMW 3er",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "BMW 4er",
+   "economy": "от 2013",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "BMW 5er",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "BMW 7er",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "BMW M3",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "BMW X3",
+   "economy": "Не подходит",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Brilliance H530",
+   "economy": "от 2014",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Brilliance V5",
+   "economy": "от 2014",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Cadillac CTS",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Changan CS35",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Changan Eado",
+   "economy": "от 2014",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Chery Arrizo 7",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Chery Tiggo (T11)",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Chery Tiggo 5",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Aveo",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Chevrolet Captiva",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Chevrolet Cobalt",
+   "economy": "от 2014",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Cruze",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Chevrolet Cruze (HR)",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Epica",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Chevrolet Malibu",
+   "economy": "Не подходит",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Chevrolet Orlando",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2013",
+   "child": "от 2013"
+ },
+ {
+   "name": "Chrysler Town & Country",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Citroen Berlingo",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Citroen C-Elysee",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Citroen C3",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Citroen C3 Picasso",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Citroen C4",
+   "economy": "от 2011",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Citroen C4 Aircross",
+   "economy": "от 2012",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Citroen C4 Grand Picasso",
+   "economy": "от 2014",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2015",
+   "child": "от 2014"
+ },
+ {
+   "name": "Citroen C4 Picasso",
+   "economy": "от 2010",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2015",
+   "child": "от 2016"
+ },
+ {
+   "name": "Citroen C5",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Citroen Jumpy",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Daewoo Gentra",
+   "economy": "от 2015",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Datsun mi-DO",
+   "economy": "от 2017",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Datsun on-DO",
+   "economy": "от 2017",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Dodge Caliber",
+   "economy": "от 2008",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Dodge Journey",
+   "economy": "от 2008",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "DongFeng S30",
+   "economy": "от 2014",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Fiat Doblo",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Fiat Freemont",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Fiat Scudo",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Ford EcoSport",
+   "economy": "от 2014",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Ford Explorer",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Ford Fiesta",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Ford Focus",
+   "economy": "от 2011",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Ford Galaxy",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2013",
+   "child": "от 2014"
+ },
+ {
+   "name": "Ford Kuga",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Ford Mondeo",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "от 2014",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Geely Emgrand EC7",
+   "economy": "от 2017",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Great Wall Hover H3",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Great Wall Hover H5",
+   "economy": "от 2010",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Honda Accord",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Honda Civic",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Honda CR-V",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Honda Crosstour",
+   "economy": "от 2011",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Honda Pilot",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Hyundai Avante",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Hyundai Creta",
+   "economy": "от 2016",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Hyundai Elantra",
+   "economy": "от 2010",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Hyundai Equus",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Hyundai Genesis",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Hyundai Grandeur",
+   "economy": "от 2008",
+   "comfort": "от 2011",
+   "comfortplus": "от 2014",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Hyundai i30",
+   "economy": "от 2010",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Hyundai i40",
+   "economy": "от 2011",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Hyundai ix35",
+   "economy": "от 2010",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Hyundai ix55",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Hyundai Santa Fe",
+   "economy": "от 2010",
+   "comfort": "от 2011",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Hyundai Solaris",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Hyundai Sonata",
+   "economy": "от 2010",
+   "comfort": "от 2011",
+   "comfortplus": "от 2017",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2017"
+ },
+ {
+   "name": "Hyundai Starex (H-1)",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2013",
+   "child": "от 2012"
+ },
+ {
+   "name": "Hyundai Veloster",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Infiniti G",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Infiniti M",
+   "economy": "Не подходит",
+   "comfort": "Не подходит",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Infiniti Q50",
+   "economy": "Не подходит",
+   "comfort": "Не подходит",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Infiniti Q70",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Infiniti QX56",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Infiniti QX70",
+   "economy": "от 2012",
+   "comfort": "от 2012",
+   "comfortplus": "от 2015",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Jaguar XF",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Jaguar XJ",
+   "economy": "Не подходит",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Kia Carnival",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Kia Cee’d",
+   "economy": "от 2010",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Kia Cee’d GT",
+   "economy": "от 2013",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Kia Cerato",
+   "economy": "от 2009",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Kia Optima",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2014",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Kia Quoris",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Kia Rio",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Kia Sorento",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Kia Soul",
+   "economy": "от 2008",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Kia Sportage",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Kia Venga",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Lada VESTA",
+   "economy": "от 2016",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Lada X-RAY",
+   "economy": "от 2016",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Lexus CT",
+   "economy": "от 2011",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Lexus ES",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Lexus GS",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Lexus LS",
+   "economy": "Не подходит",
+   "comfort": "Не подходит",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Lexus RX",
+   "economy": "от 2008",
+   "comfort": "от 2011",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Lifan Cebrium (720)",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Lifan Solano II",
+   "economy": "от 2016",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Lifan X60",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Mazda 3",
+   "economy": "от 2009",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Mazda 5",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Mazda 6",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Mazda CX-5",
+   "economy": "от 2011",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Mazda CX-7",
+   "economy": "от 2010",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Mercedes-Benz",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz B-klasse",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Mercedes-Benz C-klasse",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Mercedes-Benz C-klasse AMG",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz CLS-klasse",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Mercedes-Benz E-klasse",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Mercedes-Benz GLE",
+   "economy": "от 2012",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Mercedes-Benz GLK-klasse",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Mercedes-Benz S-klasse",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "от 2015",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Mercedes-Benz Viano",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2013",
+   "child": "от 2012"
+ },
+ {
+   "name": "Mercedes-Benz Vito",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2013",
+   "child": "от 2012"
+ },
+ {
+   "name": "MINI Countryman",
+   "economy": "от 2010",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "MINI Coupe",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi ASX",
+   "economy": "от 2010",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Mitsubishi Lancer",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Outlander",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Mitsubishi Pajero",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Nissan Almera",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Nissan Altima",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Nissan Juke",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Nissan Navara (Frontier)",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Nissan Note",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Nissan Pathfinder",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Nissan Qashqai",
+   "economy": "от 2008",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Nissan Qashqai+2",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Nissan Sentra",
+   "economy": "от 2014",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Nissan Teana",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Nissan Terrano",
+   "economy": "от 2014",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Nissan Tiida",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Nissan X-Trail",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Opel Antara",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Opel Astra",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Opel Astra OPC",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Opel Corsa",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Opel Insignia",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Opel Meriva",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Opel Mokka",
+   "economy": "от 2012",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Opel Zafira",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2013",
+   "child": "от 2012"
+ },
+ {
+   "name": "Peugeot 3008",
+   "economy": "от 2009",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Peugeot 301",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Peugeot 308",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Peugeot 4007",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Peugeot 408",
+   "economy": "от 2012",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Peugeot 508",
+   "economy": "от 2011",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Peugeot Partner",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Ravon Gentra",
+   "economy": "от 2015",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Ravon Nexia R3 (с кондиционером)",
+   "economy": "от 2016",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Ravon R4 (с кондиционером)",
+   "economy": "от 2016",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Renault Duster",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Renault Fluence",
+   "economy": "от 2009",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Renault Kangoo",
+   "economy": "от 2009",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Renault Kaptur",
+   "economy": "Не подходит",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Renault Laguna",
+   "economy": "от 2009",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Renault Latitude",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Renault Logan",
+   "economy": "от 2015",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Renault Megane",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Renault Sandero",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Renault Scenic",
+   "economy": "от 2009",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "SEAT Leon",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Skoda Fabia",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Skoda Kodiaq",
+   "economy": "от 2016",
+   "comfort": "от 2016",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2016"
+ },
+ {
+   "name": "Skoda Octavia",
+   "economy": "от 2011",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Skoda Octavia RS",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Skoda Rapid",
+   "economy": "от 2013",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Skoda Roomster",
+   "economy": "от 2011",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Skoda Superb",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Skoda Yeti",
+   "economy": "от 2009",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "SsangYong Actyon",
+   "economy": "от 2008",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "SsangYong Kyron",
+   "economy": "от 2008",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "SsangYong Stavic",
+   "economy": "от 2013",
+   "comfort": "от 2013",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Subaru Forester",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Subaru Impreza",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Suzuki Grand Vitara",
+   "economy": "от 2008",
+   "comfort": "от 2014",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Suzuki SX4",
+   "economy": "от 2009",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Toyota Auris",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Toyota Camry",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Toyota Corolla",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Toyota Highlander",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Toyota Land Cruiser",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Toyota Land Cruiser Prado",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Toyota Prius",
+   "economy": "от 2010",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Toyota RAV 4",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Toyota Venza",
+   "economy": "от 2009",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Toyota Verso",
+   "economy": "от 2009",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Volkswagen Amarok",
+   "economy": "от 2010",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Caddy",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2015",
+   "child": "от 2013"
+ },
+ {
+   "name": "Volkswagen Caravelle",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2013",
+   "child": "от 2012"
+ },
+ {
+   "name": "Volkswagen Golf",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2014"
+ },
+ {
+   "name": "Volkswagen Jetta",
+   "economy": "от 2009",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Volkswagen Multivan",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "от 2013",
+   "child": "от 2012"
+ },
+ {
+   "name": "Volkswagen Passat",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "от 2015",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Volkswagen Passat CC",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Polo",
+   "economy": "от 2012",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2015"
+ },
+ {
+   "name": "Volkswagen Tiguan",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2013"
+ },
+ {
+   "name": "Volkswagen Touran",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Volkswagen Transporter",
+   "economy": "от 2008",
+   "comfort": "Не подходит",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "Не подходит"
+ },
+ {
+   "name": "Volvo S40",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Volvo S60",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Volvo S80",
+   "economy": "Не подходит",
+   "comfort": "от 2011",
+   "comfortplus": "от 2012",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Volvo XC70",
+   "economy": "от 2008",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ },
+ {
+   "name": "Volvo XC90",
+   "economy": "Не подходит",
+   "comfort": "от 2012",
+   "comfortplus": "Не подходит",
+   "business": "Не подходит",
+   "minivan": "Не подходит",
+   "child": "от 2012"
+ }
+]
